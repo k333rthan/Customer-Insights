@@ -1,6 +1,7 @@
 # Customer Insights Dashboard
 
-<img src="C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-05-08 130758.png" alt="Lead Fox Dashboard" width="800"/>
+![Dashboard Preview](https://github.com/k333rthan/your-repo/blob/main/LeadFox2025-04-18.png?raw=true)
+
 
 Note: This image contains sensitive business data. For public repositories, consider using a blurred version.
 
