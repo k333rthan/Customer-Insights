@@ -192,6 +192,6 @@ This repository contains a blurred version of the dashboard for demonstration pu
 - GDPR-compliant data handling
 
 ## 📞 Contact
-Project Maintainer - [your-email@example.com](mailto:sgowdakeerthan@gmail.com)
-Project Link: [https://github.com/your-username/lead-fox-dashboard](https://github.com/k33rthan/lead-fox-dashboard)
+Project Maintainer - [sgowdakeerthan@gmail.com](mailto:sgowdakeerthan@gmail.com)
+
 
