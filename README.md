@@ -1,5 +1,6 @@
 # Customer Insights Dashboard
 
+![LeadFox Screenshot](images/LeadFox2025-04-18_110611.png)
 
 
 
