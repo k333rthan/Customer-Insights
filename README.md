@@ -1,6 +1,6 @@
 # Customer Insights Dashboard
 
-![Dashboard Preview](https://github.com/k333rthan/your-repo/blob/main/LeadFox2025-04-18.png?raw=true)
+
 
 
 Note: This image contains sensitive business data. For public repositories, consider using a blurred version.
