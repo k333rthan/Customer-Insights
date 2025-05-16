@@ -4,7 +4,7 @@
 
 
 
-Note: This image contains sensitive business data. A blurred Vision is used 
+## Note: This image contains sensitive business data. A blurred Vision is used 
 
 ## Project Overview
 The primary objective of this project is to analyze the pricing, distribution, and trends of drugs across various stores using the provided dataset. By leveraging SQL, we aim to gain actionable insights into drug pricing patterns, store performance, and product availability, which can aid decision-making in the pharmaceutical industry.
